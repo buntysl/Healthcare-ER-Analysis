@@ -1,20 +1,61 @@
 # 🏥 Hospital ER Dashboard
 
-This Power BI project provides a comprehensive dashboard to analyze and monitor the performance of a hospital's Emergency Room (ER). It offers valuable insights into patient wait times, triage categories, admission trends, and overall ER efficiency.
+This Power BI dashboard provides a deep dive into key performance metrics of a hospital’s Emergency Room (ER). It helps stakeholders monitor and evaluate patient flow, wait times, triage categories, and overall ER efficiency.
+
+---
 
 ## 📊 Features
 
-- **Patient Wait Time Analysis**: Visualizes average and maximum wait times.
-- **Triage Category Breakdown**: Shows patient distribution across different urgency levels.
-- **Admissions & Discharges**: Tracks ER admissions, discharges, and outcomes.
-- **Time-based Trends**: Highlights peak hours and seasonal variations.
-- **Resource Utilization**: Evaluates staff and bed usage efficiency.
+- **Patient Wait Time Analysis**  
+  Track average, longest, and shortest wait times across various time periods.
 
-## 🛠️ Tools Used
+- **Triage Category Distribution**  
+  Visual display of patient volume by urgency level (e.g., critical, urgent, non-urgent).
 
-- **Power BI** (.pbix file)
-- Data Cleaning & Transformation (Power Query)
-- DAX for custom measures and KPIs
+- **Admissions and Discharges**  
+  Analyze admission and discharge patterns to assess ER capacity and throughput.
 
-## 📂 File Structure
+- **Time Trend Analysis**  
+  Identify daily, weekly, and monthly trends in ER visits and patient load.
+
+- **Resource Utilization**  
+  Monitor bed occupancy, staff availability, and treatment efficiency.
+
+---
+
+## 🛠 Tools Used
+
+- **Power BI Desktop (.pbix)**
+- **Power Query** for data transformation and cleaning
+- **DAX (Data Analysis Expressions)** for custom KPIs and calculations
+- **Data Visualization** using built-in Power BI charts, filters, and slicers
+
+---
+
+## 🔍 Insights
+
+- **High Wait Times During Evenings**  
+  Most ER congestion occurs between 6 PM and 10 PM, often exceeding acceptable wait thresholds.
+
+- **Non-Urgent Cases Occupying Resources**  
+  A significant percentage of ER visits are non-urgent, which strains critical resources.
+
+- **Weekend Spike in Visits**  
+  Patient volume tends to increase on weekends, suggesting the need for flexible staffing.
+
+- **Triage Imbalance**  
+  Critical patients have longer-than-expected wait times, possibly due to triage inefficiencies.
+
+---
+
+## 💡 Recommendations
+
+- **Implement Fast-Track Zones**  
+  Separate non-urgent cases to reduce their impact on critical care pathways.
+
+- **Dynamic Staffing**  
+  Increase ER staffing during peak hours and weekends based on historic patterns.
+
+
+
 
