@@ -2,6 +2,9 @@
 
 This Power BI dashboard provides a deep dive into key performance metrics of a hospital’s Emergency Room (ER). It helps stakeholders monitor and evaluate patient flow, wait times, triage categories, and overall ER efficiency.
 
+<img width="1090" alt="Monthly View" src="https://github.com/user-attachments/assets/1b19110f-0dd8-4cef-b2ba-fc609a4af96d" />
+
+
 ---
 
 ## 📊 Features
